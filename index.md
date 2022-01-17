@@ -1,0 +1,3 @@
+Welcome!
+- [[inbox]]
+- [[todo]]
